@@ -22,9 +22,9 @@ export const FloatingCube: React.FC<FloatingCubeProps> = ({ position }) => {
       <boxGeometry args={[1, 1, 1]} />
       <meshStandardMaterial
         color="#3b82f6"
-        transparent
+        transparent={true}
         opacity={0.6}
-        wireframe
+        wireframe={true}
       />
     </mesh>
   );
