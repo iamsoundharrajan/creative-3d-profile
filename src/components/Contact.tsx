@@ -31,19 +31,19 @@ export const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'hello@example.com',
+      value: 'soundharrajan.shanmugasundharam@gmail.com',
       href: 'mailto:hello@example.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
+      value: '+919894339072',
       href: 'tel:+15551234567'
     },
     {
       icon: MapPin,
       title: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Chennai, TN',
       href: '#'
     }
   ];
